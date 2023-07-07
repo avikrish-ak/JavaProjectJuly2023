@@ -9,6 +9,10 @@ public class Program2 {
 		char a='1';
 		char b='$';
 		
+		int x1=x;
+		System.out.println(x1);
+		
+		
 		System.out.println(x);
 		System.out.println(y);
 		System.out.println(a);
